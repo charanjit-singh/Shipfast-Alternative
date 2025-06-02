@@ -2,6 +2,9 @@
 
 Looking for a Shipfast alternative to streamline your web app development? While Shipfast offers a solid boilerplate for quick setups with authentication and payments, there’s a better option for developers needing more flexibility and features: [**Indie Kit**](https://indiekit.pro?utm_source=github&utm_campaign=shipfastalternativerepo). For those on a budget, **OpenSaaS** is a free alternative worth checking out.
 
+[![App Platorm](./featuredimage.png)]([https://www.digitalocean.com/products/app-platform](https://indiekit.pro/?utm_source=github&utm_campaign=shipfastalternativerepo))
+
+
 ## Why Indie Kit?
 
 Indie Kit builds on Shipfast’s foundation but adds powerful tools for solo devs, small teams, or B2B apps:
